@@ -1,0 +1,139 @@
+<HTML><HEAD>
+<TITLE>W R P R I N T (29-937)</TITLE>
+</HEAD><BODY bgcolor='white' background='c:\winnt\tile10.gif'>
+<style>
+.label {font-family:arial;font-weight:bold;}
+.uselabel {font-family:arial;font-weight:bold;font-size:small;}
+</style>
+<script language='javascript' src='http://waterrights.utah.gov/header.js' type='text/javascript'></script>
+<map name='logomap'>
+<area shape='rect' alt='Utah Division of Water Rights Test Server' coords='0,0,755,40' href='http://waterrights.utah.gov/default.htm'>
+<area shape='default' nohref></map><img SRC='/images/logobar.gif' BORDER=0 usemap='#logomap' >
+<script language='javascript'><!--
+function showSoleSupply(groupidnumber){ var ret = showModalDialog('/forms/soleSupplyQuery.asp?groupnumber=' + groupidnumber, '', 'dialogHeight:500px;dialogWidth:700px;status:0;');}
+//--></script>
+<FORM METHOD='GET' NAME='WRF' ACTION='wrprint.exe'>
+<BR><TABLE BORDER=5 CELLPADDING=5><TR BGCOLOR='#9999CC'><td><script> function launchSite() {   window.setTimeout(function(){   var el = document.getElementById('Isel');   var url = el.options[el.selectedIndex].value;   window.open(url);   el.selectedIndex='0';     },100);   } </script>
+<select name='Isel' id='Isel' onchange="launchSite();"><option selected value=' '>Select Related Information</option><option value='http://waterrights.utah.gov/cgi-bin/docview.exe?Folder=29-937'>Scanned Documents</option>
+<option value='http://www.waterrights.utah.gov/mailLog/mlwrn.asp?wrn=29-937'>Mail Log</option>
+<option value='/tmpdata/2016022518191182.pdf'>Print Water Right Data</option>
+<option value='modaddresspub.exe?wrchexinput=29-937&key=Retrieve Owners'>Modify An Owners Address</option>
+<option value='http://www.waterrights.utah.gov/forms/nonuseform.asp?wrnum=29-937'>Print NONUSE Application Form</option>
+<option value='http://www.waterrights.utah.gov/forms/extensionForm.asp?wrnum=29-937'>Print EXTENSION Request Form</option>
+<option value='http://www.waterrights.utah.gov/forms/benUseDeclarationForm2.asp?wrnum=29-937'>Declaration of Beneficial Use Amounts</option>
+<option value='http://www.waterrights.utah.gov/forms/segregationRequestForm.asp?wrnum=29-937&key=Display Data'>Segregation Request Form</option>
+<option value='wrprintold.exe?wrnum=29-937'>Water Right Data with Old Supplemental Number Structure</option>
+</select></TD></TR></TABLE>
+<pre>
+      <B><FONT COLOR='RED' SIZE=4> (WARNING: Water Rights makes NO claims as to the accuracy of this data.) </FONT></B>RUN DATE: 02/25/2016
+</TR></TABLE><PRE>
+WATER RIGHT: <FONT FACE='ARIAL' SIZE=4><B>29-937  </FONT></B>     APPLICATION/CLAIM NO.: <FONT FACE='ARIAL' SIZE=4><B>D557        </FONT></B> CERT. NO.:
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<B><FONT COLOR='green'>OWNERSHIP***************************************************************************************************************************</FONT></B>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+
+NAME: Grace G. White Trust and LeRoy Clark White Family Trust
+ADDR: 1355 West 2700 South
+      Perry UT 84302
+REMARKS: 1.7 acres of irrigation and 25.0 ELUs of stockwatering.
+
+NAME: USA Fish and Wildlife Service
+ADDR: P.O. Box 25486
+      Denver CO 80225
+REMARKS: 5.26 acres of irrigation
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<B><FONT COLOR='green'>DATES, ETC.*************************************************************************************************************************</FONT></B>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+LAND OWNED BY APPLICANT?                    COUNTY TAX ID#:
+FILED:     07/09/1957|PRIORITY:    /  /1870|PUB BEGAN:           |PUB ENDED:           |NEWSPAPER:
+ProtestEnd:          |PROTESTED: [No      ]|HEARNG HLD:          |SE ACTION: [        ]|ActionDate:          |PROOF DUE:
+EXTENSION:           |ELEC/PROOF:[        ]|ELEC/PROOF:          |CERT/WUC:  10/01/1984|LAP, ETC:            |LAPS LETTER:
+RUSH LETTR:          |RENOVATE:            |RECON REQ:           |TYPE: [             ]
+PD BOOK: [29-2      ]|MAP:  [<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://www.waterrights.utah.gov/adjdinfo/hydromap.asp?')">109a         </A>]|PUB DATE:  07/03/2006
+<B><FONT COLOR='green'>*TYPE -- DOCUMENT -- STATUS--------------------------------------------------------------------------------------------------------*</FONT></B>
+<B>Type of Right: Adjudication Decree          </B>  Source of Info: Proposed Determination        <B>Status: Water User's Claim          </B>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<B><FONT COLOR='green'>LOCATION OF WATER RIGHT***(Points of Diversion: Click on Location to access PLAT Program.)*********<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/EsriMap/map.asp?layersToAdd=adjudication_books,esri_labels,duty,parcels,pls,pod,wr_areas,&layersToTurnOn=esri_labels&q=29-937  ')"></font><font size=4>MAP VIEW</font></A>    <font COLOR='green'>***************</b></font>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+FLOW: 0.56 cfs
+SOURCE: Perry Spring Stream
+COUNTY: Box Elder    COMMON DESCRIPTION: Perry
+
+POINT OF DIVERSION -- SURFACE:
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=80&PLS_EW=E&PLS_EWDIST=880&PLS_CORNER=N4&PLS_SECTION=03&PLS_TOWNSHIP=8N&PLS_RANGE=2W&PLS_BEM=SL')">(1)  S   80 ft E  880 ft from N4 cor, Sec 03, T  8N, R  2W, SLBM </A>
+      Diverting Works:                                                     Source:
+
+Stream Alt Required?: No
+
+POINT OF REDIVERSION:
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=N&PLS_NSDIST=195&PLS_EW=W&PLS_EWDIST=300&PLS_CORNER=S4&PLS_SECTION=34&PLS_TOWNSHIP=9N&PLS_RANGE=2W&PLS_BEM=SL')">(1)  N  195 ft W  300 ft from S4 cor, Sec 34, T  9N, R  2W, SLBM </A>
+      Diverting Works:                                                     Source:
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<A HREF="#" ONCLICK="window.open('http://waterrights.utah.gov/cgi-bin/wuseview.exe?Modinfo=WRUseage&WRNUM=29-937')"><B>USES OF WATER RIGHT</B></A><B><FONT COLOR='green'>********<I> ELU -- Equivalent Livestock Unit (cow, horse, etc.) </I>********<I> EDU -- Equivalent Domestic Unit or 1 Family</I></FONT></B>
+                  <FONT COLOR='green'><i><b> (The Beneficial Use Amount is the quantity of Use that this Water Right contributes to the Group Total.)    </b></i></FONT>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+SUPPLEMENTAL GROUP NO.: <A ONCLICK='showSoleSupply("26443")'<span style='color:blue;text-decoration:underline;cursor:hand;font-size:small;font-weight:bold;' id='supplementalNumberLabel'>26443.</span></A>  Water Rights Appurtenant to the following use(s):
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-769')">29-769(WUC)</A>,<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-936')">936(WUC)</A>,<B>937(WUC)</B>,<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-1916')">1916(WUC)</A>
+....................................................................................................................................
+  IRRIGATION: Beneficial Use Amt: 0.96 acres     of the Group Total of 11.61                           PERIOD OF USE: 04/01 TO 10/31
+....................................................................................................................................
+  ###PLACE OF USE:       *-------NORTH WEST QUARTER------*-------NORTH EAST QUARTER------*-------SOUTH WEST QUARTER------*-------SOUTH EAST QUARTER------*   Section
+                         *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *   Totals
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  2W34&pouacreage=        X X     ')"> Sec 34 T  9N R  2W SLBM</A> *_______|_______|_______|_______*_______|_______|_______|_______*X      |_______|X      |_______*_______|_______|_______|_______*     11.6100
+                                                                                                                                      GROUP ACREAGE TOTAL:     11.6100
+*=====================================================================================================================================================================*
+SUPPLEMENTAL GROUP NO.: <A ONCLICK='showSoleSupply("27681")'<span style='color:blue;text-decoration:underline;cursor:hand;font-size:small;font-weight:bold;' id='supplementalNumberLabel'>27681.</span></A>  Water Rights Appurtenant to the following use(s):
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-768')">29-768(WUC)</A>,<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-769')">769(WUC)</A>,<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-936')">936(WUC)</A>,<B>937(WUC)</B>,<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-3060')">3060(ADEC)</A>
+....................................................................................................................................
+  IRRIGATION: Beneficial Use Amt: 4.3 acres      of the Group Total of 38.1                            PERIOD OF USE: 04/01 TO 10/31
+....................................................................................................................................
+  ###PLACE OF USE:       *-------NORTH WEST QUARTER------*-------NORTH EAST QUARTER------*-------SOUTH WEST QUARTER------*-------SOUTH EAST QUARTER------*   Section
+                         *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *   Totals
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  2W03&pouacreage= X              ')"> Sec 03 T  8N R  2W SLBM</A> *_______|X      |_______|_______*_______|_______|_______|_______*_______|_______|_______|_______*_______|_______|_______|_______*      2.9000
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  2W33&pouacreage=               X')"> Sec 33 T  9N R  2W SLBM</A> *_______|_______|_______|_______*_______|_______|_______|_______*_______|_______|_______|_______*_______|_______|_______|X      *      8.9000
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  2W34&pouacreage=          X     ')"> Sec 34 T  9N R  2W SLBM</A> *_______|_______|_______|_______*_______|_______|_______|_______*_______|_______|X      |_______*_______|_______|_______|_______*     26.3000
+                                                                                                                                      GROUP ACREAGE TOTAL:     38.1000
+*=====================================================================================================================================================================*
+SUPPLEMENTAL GROUP NO.: <A ONCLICK='showSoleSupply("29304")'<span style='color:blue;text-decoration:underline;cursor:hand;font-size:small;font-weight:bold;' id='supplementalNumberLabel'>29304.</span></A>  Water Rights Appurtenant to the following use(s):
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-769')">29-769(WUC)</A>,<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-936')">936(WUC)</A>,<B>937(WUC)</B>
+....................................................................................................................................
+  IRRIGATION: Beneficial Use Amt: 0.0 acres      of the Group Total of 17.3                            PERIOD OF USE: 04/01 TO 10/31
+....................................................................................................................................
+  ###PLACE OF USE:       *-------NORTH WEST QUARTER------*-------NORTH EAST QUARTER------*-------SOUTH WEST QUARTER------*-------SOUTH EAST QUARTER------*   Section
+                         *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *   Totals
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  2W34&pouacreage=        X X     ')"> Sec 34 T  9N R  2W SLBM</A> *_______|_______|_______|_______*_______|_______|_______|_______*X      |_______|X      |_______*_______|_______|_______|_______*     17.3000
+                                                                                                                                      GROUP ACREAGE TOTAL:     17.3000
+*=====================================================================================================================================================================*
+SUPPLEMENTAL GROUP NO.: <A ONCLICK='showSoleSupply("29466")'<span style='color:blue;text-decoration:underline;cursor:hand;font-size:small;font-weight:bold;' id='supplementalNumberLabel'>29466.</span></A>  Water Rights Appurtenant to the following use(s):
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-936')">29-936(WUC)</A>,<B>937(WUC)</B>
+....................................................................................................................................
+  IRRIGATION: Beneficial Use Amt: 1.7 acres      of the Group Total of 9.5                             PERIOD OF USE: 04/01 TO 10/31
+....................................................................................................................................
+  ###PLACE OF USE:       *-------NORTH WEST QUARTER------*-------NORTH EAST QUARTER------*-------SOUTH WEST QUARTER------*-------SOUTH EAST QUARTER------*   Section
+                         *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *   Totals
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  2W03&pouacreage= X  X           ')"> Sec 03 T  8N R  2W SLBM</A> *_______|X      |_______|_______*X      |_______|_______|_______*_______|_______|_______|_______*_______|_______|_______|_______*      7.8000
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  2W34&pouacreage=              X ')"> Sec 34 T  9N R  2W SLBM</A> *_______|_______|_______|_______*_______|_______|_______|_______*_______|_______|_______|_______*_______|_______|X      |_______*      1.7000
+                                                                                                                                      GROUP ACREAGE TOTAL:      9.5000
+*=====================================================================================================================================================================*
+SUPPLEMENTAL GROUP NO.: <A ONCLICK='showSoleSupply("622855")'<span style='color:blue;text-decoration:underline;cursor:hand;font-size:small;font-weight:bold;' id='supplementalNumberLabel'>622855.</span></A>  Water Rights Appurtenant to the following use(s):
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-768')">29-768(WUC)</A>,<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-769')">769(WUC)</A>,<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-770')">770(WUC)</A>,<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-936')">936(WUC)</A>,<B>937(WUC)</B>
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-1914')">1914(WUC)</A>,<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-1915')">1915(WUC)</A>,<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-1916')">1916(WUC)</A>,<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('wrprint.exe?wrnum=29-3060')">3060(ADEC)</A>
+....................................................................................................................................
+  STOCKWATER: Beneficial Use Amt: 25.0000 ELUs   of the Group Total of 250.0000                        PERIOD OF USE: 01/01 TO 12/31
+====================================================================================================================================
+This Right (29-937) has an evaluated sole-supply total for irrigation of 6.9600 acres.
+====================================================================================================================================
+This Right (29-937) is a member of 5 supplemental water right groups with irrigated acreage totaling 76.5100 acres.
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<B><FONT COLOR='green'>OTHER COMMENTS**********************************************************************************************************************</FONT></B>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+     Water Right Number 29-937 is limited to:
+     1. The total sole supply irrigation contribution of 6.96 acres.
+     2. The total sole supply stock watering contribution of 25.0 ELUs.
+<B><FONT COLOR='green'>************************************************************************************************************************************</FONT></B>
+<B><FONT COLOR='green'>*******************************************************E N D   O F   D A T A********************************************************</FONT></B>
+<B><FONT COLOR='green'>************************************************************************************************************************************</FONT></B>
+</pre>
+</form><p><p><script language='javascript' src='http://waterrights.utah.gov/footer.js'
+ type='text/javascript'></script>
+</BODY></HTML>

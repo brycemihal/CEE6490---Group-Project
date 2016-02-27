@@ -1,0 +1,102 @@
+<HTML><HEAD>
+<TITLE>W R P R I N T (29-3825)</TITLE>
+</HEAD><BODY bgcolor='white' background='c:\winnt\tile10.gif'>
+<style>
+.label {font-family:arial;font-weight:bold;}
+.uselabel {font-family:arial;font-weight:bold;font-size:small;}
+</style>
+<script language='javascript' src='http://waterrights.utah.gov/header.js' type='text/javascript'></script>
+<map name='logomap'>
+<area shape='rect' alt='Utah Division of Water Rights Test Server' coords='0,0,755,40' href='http://waterrights.utah.gov/default.htm'>
+<area shape='default' nohref></map><img SRC='/images/logobar.gif' BORDER=0 usemap='#logomap' >
+<script language='javascript'><!--
+function showSoleSupply(groupidnumber){ var ret = showModalDialog('/forms/soleSupplyQuery.asp?groupnumber=' + groupidnumber, '', 'dialogHeight:500px;dialogWidth:700px;status:0;');}
+//--></script>
+<FORM METHOD='GET' NAME='WRF' ACTION='wrprint.exe'>
+<BR><TABLE BORDER=5 CELLPADDING=5><TR BGCOLOR='#9999CC'><td><script> function launchSite() {   window.setTimeout(function(){   var el = document.getElementById('Isel');   var url = el.options[el.selectedIndex].value;   window.open(url);   el.selectedIndex='0';     },100);   } </script>
+<select name='Isel' id='Isel' onchange="launchSite();"><option selected value=' '>Select Related Information</option><option value='http://waterrights.utah.gov/cgi-bin/docview.exe?Folder=29-3825'>Scanned Documents</option>
+<option value='http://www.waterrights.utah.gov/mailLog/mlwrn.asp?wrn=29-3825'>Mail Log</option>
+<option value='/tmpdata/2016022518200091.pdf'>Print Water Right Data</option>
+<option value='modaddresspub.exe?wrchexinput=29-3825&key=Retrieve Owners'>Modify An Owners Address</option>
+<option value='http://www.waterrights.utah.gov/forms/nonuseform.asp?wrnum=29-3825'>Print NONUSE Application Form</option>
+<option value='http://www.waterrights.utah.gov/forms/extensionForm.asp?wrnum=29-3825'>Print EXTENSION Request Form</option>
+<option value='http://www.waterrights.utah.gov/forms/benUseDeclarationForm2.asp?wrnum=29-3825'>Declaration of Beneficial Use Amounts</option>
+<option value='http://www.waterrights.utah.gov/forms/segregationRequestForm.asp?wrnum=29-3825&key=Display Data'>Segregation Request Form</option>
+<option value='wrprintold.exe?wrnum=29-3825'>Water Right Data with Old Supplemental Number Structure</option>
+</select></TD></TR></TABLE>
+<pre>
+      <B><FONT COLOR='RED' SIZE=4> (WARNING: Water Rights makes NO claims as to the accuracy of this data.) </FONT></B>RUN DATE: 02/25/2016
+</TR></TABLE><PRE>
+WATER RIGHT: <FONT FACE='ARIAL' SIZE=4><B>29-3825 </FONT></B>     APPLICATION/CLAIM NO.: <FONT FACE='ARIAL' SIZE=4><B>A69539      </FONT></B> CERT. NO.: CERTIFICAT
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<B><FONT COLOR='green'>OWNERSHIP***************************************************************************************************************************</FONT></B>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+
+NAME: USA Fish & Wildlife Service
+ADDR: P.O. Box 25486, Denver Federal Center
+      Denver CO 80225
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<B><FONT COLOR='green'>DATES, ETC.*************************************************************************************************************************</FONT></B>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+LAND OWNED BY APPLICANT? Yes                COUNTY TAX ID#:
+FILED:     12/08/1995|PRIORITY:  12/08/1995|PUB BEGAN: 01/03/1996|PUB ENDED: 01/10/1996|NEWSPAPER:  The Box Elder News Journal
+ProtestEnd:01/30/1996|PROTESTED: [HearHeld]|HEARNG HLD:          |SE ACTION: [Approved]|ActionDate:03/21/1997|PROOF DUE:  03/31/2011
+EXTENSION:           |ELEC/PROOF:[Proof   ]|ELEC/PROOF:09/25/2008|CERT/WUC:  09/10/2009|LAP, ETC:            |LAPS LETTER:
+RUSH LETTR:          |RENOVATE:            |RECON REQ:           |TYPE: [             ]
+PD BOOK: [  29-     ]|MAP:  [             ]|PUB DATE:
+<B><FONT COLOR='green'>*TYPE -- DOCUMENT -- STATUS--------------------------------------------------------------------------------------------------------*</FONT></B>
+<B>Type of Right: Application to Appropriate   </B>  Source of Info: Certificate                   <B>Status: Certificate                 </B>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<B><FONT COLOR='green'>LOCATION OF WATER RIGHT***(Points of Diversion: Click on Location to access PLAT Program.)*********<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/EsriMap/map.asp?layersToAdd=adjudication_books,esri_labels,duty,parcels,pls,pod,wr_areas,&layersToTurnOn=esri_labels&q=29-3825 ')"></font><font size=4>MAP VIEW</font></A>    <font COLOR='green'>***************</b></font>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+FLOW: 1.04 cfs OR 4.0 acre-feet
+SOURCE: Stauffer-Packer Spring
+COUNTY: Box Elder    COMMON DESCRIPTION: 2 miles SW of Perry
+
+POINT OF SPRING:
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=N&PLS_NSDIST=130&PLS_EW=W&PLS_EWDIST=1605&PLS_CORNER=E4&PLS_SECTION=10&PLS_TOWNSHIP=8N&PLS_RANGE=2W&PLS_BEM=SL')">(1)  N  130 ft W 1605 ft from E4 cor, Sec 10, T  8N, R  2W, SLBM </A>
+      Diverting Works:                                                     Source:
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<A HREF="#" ONCLICK="window.open('http://waterrights.utah.gov/cgi-bin/wuseview.exe?Modinfo=WRUseage&WRNUM=29-3825')"><B>USES OF WATER RIGHT</B></A><B><FONT COLOR='green'>********<I> ELU -- Equivalent Livestock Unit (cow, horse, etc.) </I>********<I> EDU -- Equivalent Domestic Unit or 1 Family</I></FONT></B>
+                  <FONT COLOR='green'><i><b> (The Beneficial Use Amount is the quantity of Use that this Water Right contributes to the Group Total.)    </b></i></FONT>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+SUPPLEMENTAL GROUP NO.: <A ONCLICK='showSoleSupply("28479")'<span style='color:blue;text-decoration:underline;cursor:hand;font-size:small;font-weight:bold;' id='supplementalNumberLabel'>28479.</span></A>
+....................................................................................................................................
+  WILDLIFE:           Ponds providing habitat for waterfowl, shorebirds, and wading birds.             PERIOD OF USE: 01/01 TO 12/31
+                Acre Feet Contributed by this Right for this Use: 4.0
+....................................................................................................................................
+  ###PLACE OF USE:       *-------NORTH WEST QUARTER------*-------NORTH EAST QUARTER------*-------SOUTH WEST QUARTER------*-------SOUTH EAST QUARTER------*
+                         *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  2W10&pouacreage=  X     X       ')"> Sec 10 T  8N R  2W SLBM</A> *_______|_______|X      |_______*_______|_______|_______|_______*X      |_______|_______|_______*_______|_______|_______|_______*
+====================================================================================================================================
+Storage from 01/01 to 12/31, inclusive, in 2 unnamed ponds with a maximum capacity of 4.000 acre-feet, located in:
+   Height of Dam:          4   NORTH-WEST¼       NORTH-EAST¼       SOUTH-WEST¼       SOUTH-EAST¼
+   Area Inundated:      1.33   NW NE SW SE       NW NE SW SE       NW NE SW SE       NW NE SW SE
+Sec 10 T  8N R  2W SLBM       *  :  : X: X*     *  :  :  :  *     * X: X:  :  *     *  :  :  :  *
+Sec 10 T  8N R  2W SLBM       *  :  : X:  *     *  :  :  :  *     * X:  :  :  *     *  :  :  :  *
+
+Small Dam Required?: No
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<B><FONT COLOR='green'>PROTESTANTS*************************************************************************************************************************</FONT></B>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+
+NAME: Rolin Hinrichsen                                             NAME:
+ADDR: (late protest)                                               ADDR:
+      2875 South 1200 West
+      Perry UT 84302
+TYPE:                                                              TYPE:
+RCVD:                                                              RCVD:
+====================================================================================================================================
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<B><FONT COLOR='green'>APPLICATIONS FOR EXTENSIONS OF TIME WITHIN WHICH TO SUBMIT PROOF********************************************************************</FONT></B>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+FILED:     07/17/2000|PUB BEGAN:           |PUB ENDED:           |NEWSPAPER:
+ProtestEnd:          |PROTESTED: [No      ]|HEARNG HLD:          |SE ACTION: [Approved]|ActionDate:08/10/2000|PROOF DUE:  03/31/2011
+====================================================================================================================================
+<B><FONT COLOR='green'>************************************************************************************************************************************</FONT></B>
+<B><FONT COLOR='green'>*******************************************************E N D   O F   D A T A********************************************************</FONT></B>
+<B><FONT COLOR='green'>************************************************************************************************************************************</FONT></B>
+</pre>
+</form><p><p><script language='javascript' src='http://waterrights.utah.gov/footer.js'
+ type='text/javascript'></script>
+</BODY></HTML>

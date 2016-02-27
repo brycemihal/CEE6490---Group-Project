@@ -1,0 +1,368 @@
+<HTML><HEAD>
+<TITLE>W R P R I N T (29-1014)</TITLE>
+</HEAD><BODY bgcolor='white' background='c:\winnt\tile10.gif'>
+<style>
+.label {font-family:arial;font-weight:bold;}
+.uselabel {font-family:arial;font-weight:bold;font-size:small;}
+</style>
+<script language='javascript' src='http://waterrights.utah.gov/header.js' type='text/javascript'></script>
+<map name='logomap'>
+<area shape='rect' alt='Utah Division of Water Rights Test Server' coords='0,0,755,40' href='http://waterrights.utah.gov/default.htm'>
+<area shape='default' nohref></map><img SRC='/images/logobar.gif' BORDER=0 usemap='#logomap' >
+<script language='javascript'><!--
+function showSoleSupply(groupidnumber){ var ret = showModalDialog('/forms/soleSupplyQuery.asp?groupnumber=' + groupidnumber, '', 'dialogHeight:500px;dialogWidth:700px;status:0;');}
+//--></script>
+<FORM METHOD='GET' NAME='WRF' ACTION='wrprint.exe'>
+<BR><TABLE BORDER=5 CELLPADDING=5><TR BGCOLOR='#9999CC'><td><script> function launchSite() {   window.setTimeout(function(){   var el = document.getElementById('Isel');   var url = el.options[el.selectedIndex].value;   window.open(url);   el.selectedIndex='0';     },100);   } </script>
+<select name='Isel' id='Isel' onchange="launchSite();"><option selected value=' '>Select Related Information</option><option value='http://waterrights.utah.gov/cgi-bin/docview.exe?Folder=29-1014'>Scanned Documents</option>
+<option value='http://www.waterrights.utah.gov/mailLog/mlwrn.asp?wrn=29-1014'>Mail Log</option>
+<option value='/tmpdata/2016022518195155.pdf'>Print Water Right Data</option>
+<option value='modaddresspub.exe?wrchexinput=29-1014&key=Retrieve Owners'>Modify An Owners Address</option>
+<option value='http://www.waterrights.utah.gov/forms/nonuseform.asp?wrnum=29-1014'>Print NONUSE Application Form</option>
+<option value='http://www.waterrights.utah.gov/forms/extensionForm.asp?wrnum=29-1014'>Print EXTENSION Request Form</option>
+<option value='http://www.waterrights.utah.gov/forms/benUseDeclarationForm2.asp?wrnum=29-1014'>Declaration of Beneficial Use Amounts</option>
+<option value='http://www.waterrights.utah.gov/forms/segregationRequestForm.asp?wrnum=29-1014&key=Display Data'>Segregation Request Form</option>
+<option value='wrprintold.exe?wrnum=29-1014'>Water Right Data with Old Supplemental Number Structure</option>
+</select></TD></TR></TABLE>
+<pre>
+      <B><FONT COLOR='RED' SIZE=4> (WARNING: Water Rights makes NO claims as to the accuracy of this data.) </FONT></B>RUN DATE: 02/25/2016
+</TR></TABLE><PRE>
+WATER RIGHT: <FONT FACE='ARIAL' SIZE=4><B>29-1014 </FONT></B>     APPLICATION/CLAIM NO.: <FONT FACE='ARIAL' SIZE=4><B>A10527      </FONT></B> CERT. NO.: 2067
+CHANGES: <A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('chprint.exe?chnum=a2852')">a2852     </A>(Filed: 05/04/1954) Certificate a686 (Issued: )
+         <A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('chprint.exe?chnum=a6064')">a6064     </A>(Filed: 01/27/1970) Certificate a686 (Issued: 06/24/1970)
+         <A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('chprint.exe?chnum=a21587')">a21587    </A>(Filed: 09/29/1997) Certificate  (Issued: 09/25/2014)
+         <A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('chprint.exe?chnum=t27030')">t27030    </A>(Filed: 09/29/1997) Lapsed
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<B><FONT COLOR='green'>OWNERSHIP***************************************************************************************************************************</FONT></B>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+
+NAME: USA Fish & Wildlife Service
+ADDR: c/o Regional Director, Region Six
+      PO Box 25486, Denver Federal Center
+      Denver CO 80225
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<B><FONT COLOR='green'>DATES, ETC.*************************************************************************************************************************</FONT></B>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+LAND OWNED BY APPLICANT? Yes                COUNTY TAX ID#:
+FILED:     11/07/1928|PRIORITY:  11/11/1928|PUB BEGAN: 01/18/1929|PUB ENDED:           |NEWSPAPER:  The Box Elder News Journal
+ProtestEnd:          |PROTESTED: [No      ]|HEARNG HLD:          |SE ACTION: [Approved]|ActionDate:03/23/1929|PROOF DUE:
+EXTENSION:           |ELEC/PROOF:[Proof   ]|ELEC/PROOF:10/13/1931|CERT/WUC:  03/22/1932|LAP, ETC:            |LAPS LETTER:
+RUSH LETTR:          |RENOVATE:            |RECON REQ:           |TYPE: [             ]
+PD BOOK: [  29-4    ]|MAP:  [             ]|PUB DATE:
+<B><FONT COLOR='green'>*TYPE -- DOCUMENT -- STATUS--------------------------------------------------------------------------------------------------------*</FONT></B>
+<B>Type of Right: Application to Appropriate   </B>  Source of Info: Certificate                   <B>Status: Certificate                 </B>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<B><FONT COLOR='green'>LOCATION OF WATER RIGHT***(Points of Diversion: Click on Location to access PLAT Program.)*********<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/EsriMap/map.asp?layersToAdd=adjudication_books,esri_labels,duty,parcels,pls,pod,wr_areas,&layersToTurnOn=esri_labels&q=29-1014 ')"></font><font size=4>MAP VIEW</font></A>    <font COLOR='green'>***************</b></font>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+FLOW: 1000.0 cfs
+SOURCE: Bear River
+COUNTY: Box Elder    COMMON DESCRIPTION: Bear River Bird Refuge
+
+POINTS OF DIVERSION -- SURFACE:
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=228&PLS_EW=E&PLS_EWDIST=267&PLS_CORNER=NW&PLS_SECTION=05&PLS_TOWNSHIP=8N&PLS_RANGE=3W&PLS_BEM=SL')">(1)  S  228 ft E  267 ft from NW cor, Sec 05, T  8N, R  3W, SLBM </A>
+      Diverting Works:                                                     Source:  Bear River at "O" Line Canal
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=2057&PLS_EW=W&PLS_EWDIST=2832&PLS_CORNER=NE&PLS_SECTION=18&PLS_TOWNSHIP=9N&PLS_RANGE=2W&PLS_BEM=SL')">(2)  S 2057 ft W 2832 ft from NE cor, Sec 18, T  9N, R  2W, SLBM </A>
+      Diverting Works:                                                     Source:  Bear River at Reeder Overflow
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=N&PLS_NSDIST=200&PLS_EW=W&PLS_EWDIST=4245&PLS_CORNER=SE&PLS_SECTION=26&PLS_TOWNSHIP=9N&PLS_RANGE=3W&PLS_BEM=SL')">(3)  N  200 ft W 4245 ft from SE cor, Sec 26, T  9N, R  3W, SLBM </A>
+      Diverting Works:                                                     Source:  Concrete and Steel Gates
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=177&PLS_EW=W&PLS_EWDIST=381&PLS_CORNER=N4&PLS_SECTION=35&PLS_TOWNSHIP=9N&PLS_RANGE=4W&PLS_BEM=SL')">(4)  S  177 ft W  381 ft from N4 cor, Sec 35, T  9N, R  4W, SLBM </A>
+      Diverting Works:                                                     Source:  Concrete and Steel Gates
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=523&PLS_EW=E&PLS_EWDIST=2291&PLS_CORNER=N4&PLS_SECTION=35&PLS_TOWNSHIP=9N&PLS_RANGE=4W&PLS_BEM=SL')">(5)  S  523 ft E 2291 ft from N4 cor, Sec 35, T  9N, R  4W, SLBM </A>
+      Diverting Works:                                                     Source:  Concrete and Steel Gates
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=347&PLS_EW=W&PLS_EWDIST=2497&PLS_CORNER=N4&PLS_SECTION=36&PLS_TOWNSHIP=9N&PLS_RANGE=4W&PLS_BEM=SL')">(6)  S  347 ft W 2497 ft from N4 cor, Sec 36, T  9N, R  4W, SLBM </A>
+      Diverting Works:                                                     Source:  Bear River at old Duckville Club
+
+Stream Alt Required?: No
+
+POINTS OF REDIVERSION:
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=2329&PLS_EW=E&PLS_EWDIST=256&PLS_CORNER=NW&PLS_SECTION=19&PLS_TOWNSHIP=8N&PLS_RANGE=3W&PLS_BEM=SL')">(1)  S 2329 ft E  256 ft from NW cor, Sec 19, T  8N, R  3W, SLBM </A>
+      Diverting Works:  Stoplog structures in D-line dike.                 Source:  Unit 3 pond.
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=2565&PLS_EW=E&PLS_EWDIST=2542&PLS_CORNER=NW&PLS_SECTION=20&PLS_TOWNSHIP=8N&PLS_RANGE=3W&PLS_BEM=SL')">(2)  S 2565 ft E 2542 ft from NW cor, Sec 20, T  8N, R  3W, SLBM </A>
+      Diverting Works:  Stoplog structures in D-line dike                  Source:  Unit 4 pond.
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=2034&PLS_EW=E&PLS_EWDIST=2637&PLS_CORNER=NW&PLS_SECTION=21&PLS_TOWNSHIP=8N&PLS_RANGE=3W&PLS_BEM=SL')">(3)  S 2034 ft E 2637 ft from NW cor, Sec 21, T  8N, R  3W, SLBM </A>
+      Diverting Works:  Stoplog structures in D-line dike                  Source:  Unit 4 pond.
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=7&PLS_EW=W&PLS_EWDIST=820&PLS_CORNER=NE&PLS_SECTION=23&PLS_TOWNSHIP=8N&PLS_RANGE=3W&PLS_BEM=SL')">(4)  S    7 ft W  820 ft from NE cor, Sec 23, T  8N, R  3W, SLBM </A>
+      Diverting Works:  Stoplog structures in D-line dike                  Source:  Unit 5 pond.
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=N&PLS_NSDIST=&PLS_EW=W&PLS_EWDIST=1686&PLS_CORNER=NE&PLS_SECTION=24&PLS_TOWNSHIP=8N&PLS_RANGE=3W&PLS_BEM=SL')">(5)  N    0 ft W 1686 ft from NE cor, Sec 24, T  8N, R  3W, SLBM </A>
+      Diverting Works:  Stoplog structure in D-line dike.                  Source:  Unit 5 pond.
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=131&PLS_EW=E&PLS_EWDIST=7541&PLS_CORNER=NE&PLS_SECTION=24&PLS_TOWNSHIP=8N&PLS_RANGE=3W&PLS_BEM=SL')">(6)  S  131 ft E 7541 ft from NE cor, Sec 24, T  8N, R  3W, SLBM </A>
+      Diverting Works:  Stoplog structures in D-line dike                  Source:  Unit 5 pond.
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=443&PLS_EW=W&PLS_EWDIST=1043&PLS_CORNER=NE&PLS_SECTION=06&PLS_TOWNSHIP=8N&PLS_RANGE=4W&PLS_BEM=SL')">(7)  S  443 ft W 1043 ft from NE cor, Sec 06, T  8N, R  4W, SLBM </A>
+      Diverting Works:  Stoplog structures in D-line dike                  Source:  Unit 2 pond.
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=N&PLS_NSDIST=1371&PLS_EW=W&PLS_EWDIST=476&PLS_CORNER=SE&PLS_SECTION=08&PLS_TOWNSHIP=8N&PLS_RANGE=4W&PLS_BEM=SL')">(8)  N 1371 ft W  476 ft from SE cor, Sec 08, T  8N, R  4W, SLBM </A>
+      Diverting Works:  Stoplog structure in D-line dike.                  Source:  Unit 2 pond.
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=1200&PLS_EW=E&PLS_EWDIST=443&PLS_CORNER=NW&PLS_SECTION=08&PLS_TOWNSHIP=8N&PLS_RANGE=4W&PLS_BEM=SL')">(9)  S 1200 ft E  443 ft from NW cor, Sec 08, T  8N, R  4W, SLBM </A>
+      Diverting Works:  Stoplog structure in D-line dike.                  Source:  Unit 2 pond.
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=N&PLS_NSDIST=1758&PLS_EW=W&PLS_EWDIST=394&PLS_CORNER=SE&PLS_SECTION=15&PLS_TOWNSHIP=8N&PLS_RANGE=4W&PLS_BEM=SL')">(10) N 1758 ft W  394 ft from SE cor, Sec 15, T  8N, R  4W, SLBM </A>
+      Diverting Works:  Stoplog structure in D-line dike.                  Source:  Unit 3 pond.
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=1227&PLS_EW=W&PLS_EWDIST=676&PLS_CORNER=NE&PLS_SECTION=16&PLS_TOWNSHIP=8N&PLS_RANGE=4W&PLS_BEM=SL')">(11) S 1227 ft W  676 ft from NE cor, Sec 16, T  8N, R  4W, SLBM </A>
+      Diverting Works:  Stoplog structure in D-line dike.                  Source:  Unit 2 pond.
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=518&PLS_EW=E&PLS_EWDIST=108&PLS_CORNER=NW&PLS_SECTION=24&PLS_TOWNSHIP=8N&PLS_RANGE=4W&PLS_BEM=SL')">(12) S  518 ft E  108 ft from NW cor, Sec 24, T  8N, R  4W, SLBM </A>
+      Diverting Works:  Stoplog structures in D-line dike                  Source:  Unit 3 pond.
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=N&PLS_NSDIST=394&PLS_EW=W&PLS_EWDIST=2322&PLS_CORNER=SE&PLS_SECTION=30&PLS_TOWNSHIP=9N&PLS_RANGE=4W&PLS_BEM=SL')">(13) N  394 ft W 2322 ft from SE cor, Sec 30, T  9N, R  4W, SLBM </A>
+      Diverting Works:  Stoplog structures in D-line dike                  Source:  Unit 1 pond.
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=1663&PLS_EW=E&PLS_EWDIST=1879&PLS_CORNER=NW&PLS_SECTION=30&PLS_TOWNSHIP=9N&PLS_RANGE=4W&PLS_BEM=SL')">(14) S 1663 ft E 1879 ft from NW cor, Sec 30, T  9N, R  4W, SLBM </A>
+      Diverting Works:  Stoplog structures in D-line dike                  Source:  Unit 1 pond.
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=151&PLS_EW=E&PLS_EWDIST=2434&PLS_CORNER=NW&PLS_SECTION=35&PLS_TOWNSHIP=9N&PLS_RANGE=4W&PLS_BEM=SL')">(15) S  151 ft E 2434 ft from NW cor, Sec 35, T  9N, R  4W, SLBM </A>
+      Diverting Works:  Overflow channel on no. bank near old refuge H.Q.  Source:  bank of B.R. near old H.Q.
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('http://maps.waterrights.utah.gov/asp/wrplatGE.asp?Modinfo=MainMenu&Key=Radius+Search&PLS_RADIUS=2000&PLS_NS=S&PLS_NSDIST=348&PLS_EW=E&PLS_EWDIST=2706&PLS_CORNER=NW&PLS_SECTION=35&PLS_TOWNSHIP=9N&PLS_RANGE=4W&PLS_BEM=SL')">(16) S  348 ft E 2706 ft from NW cor, Sec 35, T  9N, R  4W, SLBM </A>
+      Diverting Works:  Overflow channel on so. bank near old Refuge H.Q.  Source:  So. bank of B.R. near old H.Q.
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<A HREF="#" ONCLICK="window.open('http://waterrights.utah.gov/cgi-bin/wuseview.exe?Modinfo=WRUseage&WRNUM=29-1014')"><B>USES OF WATER RIGHT</B></A><B><FONT COLOR='green'>********<I> ELU -- Equivalent Livestock Unit (cow, horse, etc.) </I>********<I> EDU -- Equivalent Domestic Unit or 1 Family</I></FONT></B>
+                  <FONT COLOR='green'><i><b> (The Beneficial Use Amount is the quantity of Use that this Water Right contributes to the Group Total.)    </b></i></FONT>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+SUPPLEMENTAL GROUP NO.: <A ONCLICK='showSoleSupply("25537")'<span style='color:blue;text-decoration:underline;cursor:hand;font-size:small;font-weight:bold;' id='supplementalNumberLabel'>25537.</span></A>
+....................................................................................................................................
+  OTHER:              Waterfowl Habitat                                                                PERIOD OF USE: 01/01 TO 12/31
+                Acre Feet Contributed by this Right for this Use: 425771.0
+The effective service area under this right is 43,742.74 acres, which is also the sole supply
+acreage.  The diversion limitation under this claim is 425,771 acre-feet per year, of which,
+120,791 acre-feet is for flushing.  Flushing is a nonconsumptive use generally required in the
+spring and fall to prevent avian botulism and to control salinity.
+....................................................................................................................................
+  ###PLACE OF USE:       *-------NORTH WEST QUARTER------*-------NORTH EAST QUARTER------*-------SOUTH WEST QUARTER------*-------SOUTH EAST QUARTER------*
+                         *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *  NW   |  NE   |  SW   |  SE   *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  2W09&pouacreage=XXXXXXXXXXXXX X ')"> Sec 09 T  8N R  2W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |_______|X      |_______*
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  2W10&pouacreage=    X           ')"> Sec 10 T  8N R  2W SLBM</A> *_______|_______|_______|_______*X      |_______|_______|_______*_______|_______|_______|_______*_______|_______|_______|_______*
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W07&pouacreage=  XX  XXXXXXXXXX')"> Sec 07 T  8N R  3W SLBM</A> *_______|_______|X      |X      *_______|_______|X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W08&pouacreage=  XX  XXXXXXXXXX')"> Sec 08 T  8N R  3W SLBM</A> *_______|_______|X      |X      *_______|_______|X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W09&pouacreage=  XX  XXXXXXXXXX')"> Sec 09 T  8N R  3W SLBM</A> *_______|_______|X      |X      *_______|_______|X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W10&pouacreage=  XX  XXXXXXXXXX')"> Sec 10 T  8N R  3W SLBM</A> *_______|_______|X      |X      *_______|_______|X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W11&pouacreage=  XXXXXXXXXXXXXX')"> Sec 11 T  8N R  3W SLBM</A> *_______|_______|X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W12&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 12 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W13&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 13 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W14&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 14 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W15&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 15 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W16&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 16 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W17&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 17 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W18&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 18 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W19&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 19 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W20&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 20 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W21&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 21 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W22&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 22 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W23&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 23 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W24&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 24 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W25&pouacreage=XXXXXXXX        ')"> Sec 25 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *_______|_______|_______|_______*_______|_______|_______|_______*
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W26&pouacreage=XXXXXXXX        ')"> Sec 26 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *_______|_______|_______|_______*_______|_______|_______|_______*
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W27&pouacreage=XXXXXXXX        ')"> Sec 27 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *_______|_______|_______|_______*_______|_______|_______|_______*
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W28&pouacreage=XXXXXXXX        ')"> Sec 28 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *_______|_______|_______|_______*_______|_______|_______|_______*
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W29&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 29 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  3W30&pouacreage=XXXXXXXX        ')"> Sec 30 T  8N R  3W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *_______|_______|_______|_______*_______|_______|_______|_______*
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  4W01&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 01 T  8N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  4W02&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 02 T  8N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  4W03&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 03 T  8N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  4W04&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 04 T  8N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  4W05&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 05 T  8N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  4W06&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 06 T  8N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  4W07&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 07 T  8N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  4W08&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 08 T  8N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  4W09&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 09 T  8N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  4W10&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 10 T  8N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  4W11&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 11 T  8N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  4W12&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 12 T  8N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  4W13&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 13 T  8N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  4W15&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 15 T  8N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  4W16&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 16 T  8N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  8N  4W24&pouacreage=XX  XXXXXXXXXXXX')"> Sec 24 T  8N R  4W SLBM</A> *X      |X      |_______|_______*X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W03&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 03 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W04&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 04 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W05&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 05 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W06&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 06 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W07&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 07 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W08&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 08 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W09&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 09 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W10&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 10 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W14&pouacreage=          X     ')"> Sec 14 T  9N R  4W SLBM</A> *_______|_______|_______|_______*_______|_______|_______|_______*_______|_______|X      |_______*_______|_______|_______|_______*
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W15&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 15 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W16&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 16 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W17&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 17 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W18&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 18 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W19&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 19 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W20&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 20 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W21&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 21 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W22&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 22 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W23&pouacreage=X X     X X     ')"> Sec 23 T  9N R  4W SLBM</A> *X      |_______|X      |_______*_______|_______|_______|_______*X      |_______|X      |_______*_______|_______|_______|_______*
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W26&pouacreage=XXXX  X XXXXXXXX')"> Sec 26 T  9N R  4W SLBM</A> *X      |X      |X      |X      *_______|_______|X      |_______*X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W27&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 27 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W28&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 28 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W29&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 29 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W30&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 30 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W31&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 31 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W32&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 32 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W33&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 33 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W34&pouacreage=XXXXXXXXXXXXXXXX')"> Sec 34 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *X      |X      |X      |X      *
+<A STYLE="color:blue;cursor:hand;cursor:pointer;text-decoration:underline" ONCLICK="window.open('placeofuse.exe?fromwrprint=1&str=SL  9N  4W35&pouacreage=XXXXX X XXXXX X ')"> Sec 35 T  9N R  4W SLBM</A> *X      |X      |X      |X      *X      |_______|X      |_______*X      |X      |X      |X      *X      |_______|X      |_______*
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<B><FONT COLOR='green'>PLACE OF USE for STOCKWATERING******************************************************************************************************</FONT></B>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+                               NORTH-WEST¼       NORTH-EAST¼       SOUTH-WEST¼       SOUTH-EAST¼
+                               NW NE SW SE       NW NE SW SE       NW NE SW SE       NW NE SW SE
+Sec 09 T  8N R  2W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X:  : X:  *
+Sec 10 T  8N R  2W SLBM       *  :  :  :  *     * X:  :  :  *     *  :  :  :  *     *  :  :  :  *
+Sec 16 T  8N R  2W SLBM       * X: X: X:  *     *  :  :  :  *     * X:  :  :  *     *  :  :  :  *
+Sec 07 T  8N R  3W SLBM       *  :  : X: X*     *  :  : X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 08 T  8N R  3W SLBM       *  :  : X: X*     *  :  : X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 09 T  8N R  3W SLBM       *  :  : X: X*     *  :  : X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 10 T  8N R  3W SLBM       *  :  : X: X*     *  :  : X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 11 T  8N R  3W SLBM       *  :  : X: X*     *  :  : X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 11 T  8N R  3W SLBM       *  :  : X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 12 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 12 T  8N R  3W SLBM       *  :  : X: X*     *  :  : X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 13 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 14 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 15 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 16 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 17 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 18 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 19 T  8N R  3W SLBM       *  :  : X: X*     *  :  : X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 19 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     *  :  :  :  *     *  :  :  :  *
+Sec 19 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 20 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 20 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     *  :  :  :  *     *  :  :  :  *
+Sec 20 T  8N R  3W SLBM       *  :  :  :  *     *  :  :  :  *     * X: X: X: X*     * X: X: X: X*
+Sec 21 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     *  :  :  :  *     *  :  :  :  *
+Sec 21 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 22 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 22 T  8N R  3W SLBM       * X: X: X:  *     * X: X:  :  *     *  :  :  :  *     *  :  :  :  *
+Sec 23 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 24 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 25 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     *  :  :  :  *     *  :  :  :  *
+Sec 26 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     *  :  :  :  *     *  :  :  :  *
+Sec 27 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     *  :  :  :  *     *  :  :  :  *
+Sec 28 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     *  :  :  :  *     *  :  :  :  *
+Sec 29 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 30 T  8N R  3W SLBM       * X: X: X: X*     * X: X: X: X*     *  :  :  :  *     *  :  :  :  *
+Sec 01 T  8N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 02 T  8N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 03 T  8N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 04 T  8N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 05 T  8N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 06 T  8N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 07 T  8N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 08 T  8N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 09 T  8N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 10 T  8N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 11 T  8N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 12 T  8N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 13 T  8N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 15 T  8N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 16 T  8N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 24 T  8N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 24 T  8N R  4W SLBM       * X: X:  :  *     * X: X: X: X*     *  :  :  :  *     *  :  :  :  *
+Sec 24 T  8N R  4W SLBM       * X:  : X: X*     *  :  : X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 03 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 04 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 05 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 06 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 07 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 08 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 09 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 10 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 14 T  9N R  4W SLBM       *  :  :  :  *     *  :  :  :  *     *  :  : X:  *     *  :  :  :  *
+Sec 15 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 16 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 17 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 18 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 19 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 20 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 21 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 22 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 23 T  9N R  4W SLBM       * X:  : X:  *     *  :  :  :  *     * X:  : X:  *     *  :  :  :  *
+Sec 26 T  9N R  4W SLBM       * X: X: X: X*     *  :  : X:  *     * X: X: X: X*     * X: X: X: X*
+Sec 26 T  9N R  4W SLBM       * X:  : X: X*     *  :  : X:  *     * X: X: X: X*     * X: X: X: X*
+Sec 27 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 28 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 29 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 30 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 31 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 32 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 33 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 34 T  9N R  4W SLBM       * X: X: X: X*     * X: X: X: X*     * X: X: X: X*     * X: X: X: X*
+Sec 35 T  9N R  4W SLBM       * X: X: X: X*     * X:  : X:  *     * X: X: X: X*     * X:  : X:  *
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<B><FONT COLOR='GREEN'>DIVERSION & DEPLETION ESTIMATES*****************************************************************************************************</FONT></B>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+         (All values in acre-feet, Growing Season in days)                 MANUALLY  ACRE-FEET DIVERSION DEPLETION GROWING WATER-USE
+     IRRIGATION   STOCK   DOMESTIC  MUNICIPAL  MINING     POWER     OTHER  EVALUATED EXPORTED    DUTY      DUTY     SEASON REPORTING
+DIV:                                                               25771.000   Yes                1.00      1.00         1
+DEP:
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+<B><FONT COLOR='green'>OTHER COMMENTS**********************************************************************************************************************</FONT></B>
+<B><FONT COLOR='green'>====================================================================================================================================</FONT></B>
+     The use of water under this claim is for the creation and maintenance of
+     marshlands for waterfowl habitat within the Bear River Migratory Bird Refuge.
+     Incidental storage of water behind shallow dikes is associated with such use.
+     The Place of Use (service area) described under this claim is the entire land
+     area within the boundaries of the bird refuge.  The effective service area is
+     the acreage shown on the hydrographic survey maps and represents the historic
+     extent of this right.  The effective service area is 43,742.74 acres.  This
+     claim is limited to the sole supply acreage of 43,742.74 acres.  The total
+     annual diversion limitation under this claim is 425,771 acre-feet.  The annual
+     diversion limitation is based on yearly water use requirements reported for
+     the refuge and the flow rate of this claim. The water demand to maintain
+     optimal marshland conditions for the Bear River Migratory Bird Refuge was
+     determined by comparing two hydrologic models; one  by the Utah Division of
+     Water Resources and the other by the USA Fish & Wildlife Service.  The water
+     volume requirements to maintain waterfowl marshlands used in the models were
+     reported in the Utah Division of Fish & Game publication No. 69-12
+     (Christensen, J.E., Water Requirements of Waterfowl Marshlands in Northern
+     Utah). The monthly demand pattern for this claim was derived from the models
+     and the flow rate of this claim.  The monthly demand pattern for this claim is
+     as follows:
+     Monthly Demand:
+     Month      Diversion limitation - AF
+     January      5,938
+     February     8,202
+     March       61,380
+     April       59,400
+     May         60,077
+     June        35,120
+     July        56,978
+     August      40,868
+     September   59,400
+     October     27,424
+     November     8,987
+     December     1,997
+     Total      425,771
+     af/yr
+     This amount is limited to that diverted for beneficial use and is the maximum
+     amount of water available from the described diversion points and all natural
+     sources.  The 4 points of diversion described in this claim are referenced by
+     Certificate of Appropriation No. a686. These points are not mapped on the
+     hydrographic survey map.  The State Engineer has re-mapped the points of
+     diversion.  Five points of diversion are shown on the hydrographic survey map
+     corresponding to those originally described under Certificate No. a686. They
+     are listed and described below.  Points 1 & 2 correspond respectively with the
+     diversions on the Bear River at the Reeder Overflow and the Whistler Canal.
+     Point 3 corresponds with the originally described diversion on the Bear River
+     near the old Duckville Headquarters.  Points 4 - 6 correspond with the
+     originally described diversion near the old Refuge Headquarters.  Points 4 - 6
+     describe each of the diversions into the three main channels controlled by
+     radial gates. POINTS OF DIVERSION SHOWN ON HYDROGRAPHIC SURVEY MAP #1) S 1856
+     ft. W 2886 ft. from the NE Corner of Section 18, T9N, R2W, SLB&M. Source:
+     Bear River at Reeder Overflow #2) N 220 ft. E 446 ft. from the SW Corner of
+     Section 26, T9N, R3W, SLB&M. Source:  Bear River at Whistler Canal  #3) S 443
+     ft. W 325 ft. from the NE Corner of Section 35, T9N, R4W, SLB&M. Source: Bear
+     River near old Duckville Headquarters #4) S 154 ft. E 2341 ft. from the NW
+     Corner of Section 35, T9N, R3W, SLB&M.Source: Bear River near old Headquarters
+     #5) S 207 ft. E 2270 ft. from the NW Corner of Section 35, T9N, R4W, SLB&M.
+     Source: Bear River near old Headquarters #6) S 335 ft. E 2309 ft. from the NW
+     Corner of Section 35, T9N, R4W, SLB&M. Source: Bear River near old
+     Headquarters The State Engineer recognizes both groups of descriptions as
+     valid points of diversion. The total acreage represented on this claim
+     reflects that mapped by the State Engineer`s office.  It is noted, however,
+     that the FWS has also mapped the effective service area within the Refuge
+     boundary and has calculated an acreage of 44,325 acres.  This represents a
+     difference of 582.26 acres (1.3%).  Both the State Engineer and the FWS
+     believe the difference in acreage is due to the different methods of mapping
+     by the respective agencies.  The State Engineer and the FWS accept this
+     difference and agree this claim  represents the current service area under WUC
+     29-1014.
+<B><FONT COLOR='green'>************************************************************************************************************************************</FONT></B>
+<B><FONT COLOR='green'>*******************************************************E N D   O F   D A T A********************************************************</FONT></B>
+<B><FONT COLOR='green'>************************************************************************************************************************************</FONT></B>
+</pre>
+</form><p><p><script language='javascript' src='http://waterrights.utah.gov/footer.js'
+ type='text/javascript'></script>
+</BODY></HTML>
